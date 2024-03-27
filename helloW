@@ -1,5 +1,2626 @@
-<HTML>
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
 
-Hello World
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 15">
+<meta name=Originator content="Microsoft Word 15">
+<link rel=File-List href="ggggggg_files/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Gregory Donoghue</o:Author>
+  <o:Template>APA Headings Template GMD 2023.dot</o:Template>
+  <o:LastAuthor>Gregory M. Donoghue</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>5911</o:TotalTime>
+  <o:LastPrinted>2024-03-15T06:08:00Z</o:LastPrinted>
+  <o:Created>2024-03-27T00:14:00Z</o:Created>
+  <o:LastSaved>2024-03-27T00:14:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>2689</o:Words>
+  <o:Characters>15329</o:Characters>
+  <o:Lines>127</o:Lines>
+  <o:Paragraphs>35</o:Paragraphs>
+  <o:CharactersWithSpaces>17983</o:CharactersWithSpaces>
+  <o:Version>16.00</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<link rel=themeData href="ggggggg_files/themedata.thmx">
+<link rel=colorSchemeMapping href="ggggggg_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:AttachedTemplate
+   HRef="C:\Users\grego\Documents\Custom Office Templates\APA Headings Template GMD 2023.dot"></w:AttachedTemplate>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-AU</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <w:DoNotOptimizeForBrowser/>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="376">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hashtag"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Unresolved Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Link"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-469750017 -1040178053 9 0 511 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-font-kerning:1.0pt;
+	mso-fareast-language:EN-US;}
+h1
+	{mso-style-name:"Heading 1\,APA\,H2";
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 1 Char\,APA Char\,H2 Char";
+	mso-style-next:bodyText_APA;
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	text-align:center;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-font-kerning:1.0pt;
+	mso-fareast-language:EN-US;}
+h2
+	{mso-style-name:"Heading 2\,APA_H2";
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 2 Char\,APA_H2 Char";
+	mso-style-next:bodyText_APA;
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-font-kerning:1.0pt;
+	mso-fareast-language:EN-US;}
+h3
+	{mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 3 Char";
+	mso-style-next:bodyText_APA;
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-font-kerning:1.0pt;
+	mso-fareast-language:EN-US;
+	font-style:italic;}
+h4
+	{mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 4 Char";
+	mso-style-next:bodyText_APA;
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:1.0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	mso-outline-level:4;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-font-kerning:1.0pt;
+	mso-fareast-language:EN-US;}
+h5
+	{mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-parent:bodyText_APA;
+	mso-style-link:"Heading 5 Char";
+	mso-style-next:Normal;
+	margin:0cm;
+	text-indent:1.0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	mso-outline-level:5;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-font-kerning:1.0pt;
+	mso-fareast-language:EN-US;
+	font-style:italic;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Body Text Char";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-font-kerning:1.0pt;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	mso-style-parent:"";
+	color:#0563C1;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:#954F72;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"List Paragraph Char";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-font-kerning:1.0pt;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"List Paragraph Char";
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-font-kerning:1.0pt;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"List Paragraph Char";
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-font-kerning:1.0pt;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"List Paragraph Char";
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-font-kerning:1.0pt;
+	mso-fareast-language:EN-US;}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char\,APA Char\,H2 Char";
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-parent:"";
+	mso-style-link:"Heading 1\,APA\,H2";
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;}
+p.BulletsAPA, li.BulletsAPA, div.BulletsAPA
+	{mso-style-name:Bullets_APA;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"List Paragraph";
+	mso-style-link:"Bullets_APA Char";
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:42.55pt;
+	mso-add-space:auto;
+	text-indent:-14.2pt;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	mso-list:l1 level1 lfo1;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:Calibri;
+	mso-font-kerning:1.0pt;
+	mso-fareast-language:EN-US;}
+p.BulletsAPACxSpFirst, li.BulletsAPACxSpFirst, div.BulletsAPACxSpFirst
+	{mso-style-name:Bullets_APACxSpFirst;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"List Paragraph";
+	mso-style-link:"Bullets_APA Char";
+	mso-style-type:export-only;
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:42.55pt;
+	mso-add-space:auto;
+	text-indent:-14.2pt;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	mso-list:l1 level1 lfo1;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:Calibri;
+	mso-font-kerning:1.0pt;
+	mso-fareast-language:EN-US;}
+p.BulletsAPACxSpMiddle, li.BulletsAPACxSpMiddle, div.BulletsAPACxSpMiddle
+	{mso-style-name:Bullets_APACxSpMiddle;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"List Paragraph";
+	mso-style-link:"Bullets_APA Char";
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:42.55pt;
+	mso-add-space:auto;
+	text-indent:-14.2pt;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	mso-list:l1 level1 lfo1;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:Calibri;
+	mso-font-kerning:1.0pt;
+	mso-fareast-language:EN-US;}
+p.BulletsAPACxSpLast, li.BulletsAPACxSpLast, div.BulletsAPACxSpLast
+	{mso-style-name:Bullets_APACxSpLast;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"List Paragraph";
+	mso-style-link:"Bullets_APA Char";
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:42.55pt;
+	mso-add-space:auto;
+	text-indent:-14.2pt;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	mso-list:l1 level1 lfo1;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:Calibri;
+	mso-font-kerning:1.0pt;
+	mso-fareast-language:EN-US;}
+p.bodyTextAPA, li.bodyTextAPA, div.bodyTextAPA
+	{mso-style-name:bodyText_APA;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"bodyText_APA Char";
+	margin:0cm;
+	text-indent:1.0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:Calibri;
+	mso-font-kerning:1.0pt;
+	mso-fareast-language:EN-US;}
+span.ListParagraphChar
+	{mso-style-name:"List Paragraph Char";
+	mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"List Paragraph";}
+span.BulletsAPAChar
+	{mso-style-name:"Bullets_APA Char";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-parent:"";
+	mso-style-link:Bullets_APA;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char\,APA_H2 Char";
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-parent:"";
+	mso-style-link:"Heading 2\,APA_H2";
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;}
+span.bodyTextAPAChar
+	{mso-style-name:"bodyText_APA Char";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-parent:"";
+	mso-style-link:bodyText_APA;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+span.Heading3Char
+	{mso-style-name:"Heading 3 Char";
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-parent:"";
+	mso-style-link:"Heading 3";
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;
+	font-style:italic;}
+span.Heading4Char
+	{mso-style-name:"Heading 4 Char";
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-parent:"";
+	mso-style-link:"Heading 4";
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;}
+span.Heading5Char
+	{mso-style-name:"Heading 5 Char";
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-parent:"";
+	mso-style-link:"Heading 5";
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;
+	font-style:italic;}
+p.trt0xe, li.trt0xe, div.trt0xe
+	{mso-style-name:trt0xe;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";}
+p.APAnumberedList, li.APAnumberedList, div.APAnumberedList
+	{mso-style-name:APA_numberedList;
+	mso-style-unhide:no;
+	mso-style-parent:Bullets_APA;
+	mso-style-link:"APA_numberedList Char";
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:42.55pt;
+	mso-add-space:auto;
+	text-indent:-14.2pt;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	mso-list:l5 level1 lfo5;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:Calibri;
+	mso-font-kerning:1.0pt;
+	mso-fareast-language:EN-US;}
+p.APAnumberedListCxSpFirst, li.APAnumberedListCxSpFirst, div.APAnumberedListCxSpFirst
+	{mso-style-name:APA_numberedListCxSpFirst;
+	mso-style-unhide:no;
+	mso-style-parent:Bullets_APA;
+	mso-style-link:"APA_numberedList Char";
+	mso-style-type:export-only;
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:42.55pt;
+	mso-add-space:auto;
+	text-indent:-14.2pt;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	mso-list:l5 level1 lfo5;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:Calibri;
+	mso-font-kerning:1.0pt;
+	mso-fareast-language:EN-US;}
+p.APAnumberedListCxSpMiddle, li.APAnumberedListCxSpMiddle, div.APAnumberedListCxSpMiddle
+	{mso-style-name:APA_numberedListCxSpMiddle;
+	mso-style-unhide:no;
+	mso-style-parent:Bullets_APA;
+	mso-style-link:"APA_numberedList Char";
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:42.55pt;
+	mso-add-space:auto;
+	text-indent:-14.2pt;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	mso-list:l5 level1 lfo5;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:Calibri;
+	mso-font-kerning:1.0pt;
+	mso-fareast-language:EN-US;}
+p.APAnumberedListCxSpLast, li.APAnumberedListCxSpLast, div.APAnumberedListCxSpLast
+	{mso-style-name:APA_numberedListCxSpLast;
+	mso-style-unhide:no;
+	mso-style-parent:Bullets_APA;
+	mso-style-link:"APA_numberedList Char";
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:42.55pt;
+	mso-add-space:auto;
+	text-indent:-14.2pt;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	mso-list:l5 level1 lfo5;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:Calibri;
+	mso-font-kerning:1.0pt;
+	mso-fareast-language:EN-US;}
+p.AbstractAPA, li.AbstractAPA, div.AbstractAPA
+	{mso-style-name:Abstract_APA;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:bodyText_APA;
+	mso-style-link:"Abstract_APA Char";
+	margin:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:Calibri;
+	mso-font-kerning:1.0pt;
+	mso-fareast-language:EN-US;}
+span.APAnumberedListChar
+	{mso-style-name:"APA_numberedList Char";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-parent:"Bullets_APA Char";
+	mso-style-link:APA_numberedList;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.ReferencesAPA, li.ReferencesAPA, div.ReferencesAPA
+	{mso-style-name:ReferencesAPA;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:bodyText_APA;
+	mso-style-link:"ReferencesAPA Char";
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:1.0cm;
+	text-indent:-1.0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:Calibri;
+	color:#222222;
+	background:white;
+	mso-font-kerning:1.0pt;
+	mso-fareast-language:EN-US;}
+span.AbstractAPAChar
+	{mso-style-name:"Abstract_APA Char";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-parent:"bodyText_APA Char";
+	mso-style-link:Abstract_APA;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+span.ReferencesAPAChar
+	{mso-style-name:"ReferencesAPA Char";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-parent:"";
+	mso-style-link:ReferencesAPA;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:#222222;}
+p.AbstractText, li.AbstractText, div.AbstractText
+	{mso-style-name:"Abstract Text";
+	mso-style-unhide:no;
+	mso-style-parent:"Body Text";
+	margin:0cm;
+	line-height:200%;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	tab-stops:right 432.0pt;
+	font-size:12.0pt;
+	mso-bidi-font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+span.BodyTextChar
+	{mso-style-name:"Body Text Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Body Text";
+	mso-ansi-font-size:11.0pt;
+	mso-bidi-font-size:11.0pt;
+	mso-font-kerning:1.0pt;
+	mso-fareast-language:EN-US;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	mso-ascii-font-family:Calibri;
+	mso-fareast-font-family:Calibri;
+	mso-hansi-font-family:Calibri;
+	mso-font-kerning:0pt;
+	mso-ligatures:none;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:49.65pt 72.0pt 49.65pt 72.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:51078142;
+	mso-list-type:hybrid;
+	mso-list-template-ids:785261792 192290550 201916441 201916443 201916431 201916441 201916443 201916431 201916441 201916443;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:54.0pt;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:90.0pt;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:126.0pt;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:162.0pt;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:198.0pt;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:234.0pt;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:270.0pt;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:306.0pt;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:342.0pt;
+	text-indent:-9.0pt;}
+@list l1
+	{mso-list-id:242032084;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1676491158 2054822028 201916419 201916421 201916417 201916419 201916421 201916417 201916419 201916421;}
+@list l1:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-style-link:Bullets_APA;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;
+	font-family:Symbol;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l2
+	{mso-list-id:531652045;
+	mso-list-type:hybrid;
+	mso-list-template-ids:342522476 -1 -1 -1 -1 -1 -1 -1 -1 -1;}
+@list l2:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l2:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l2:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l3
+	{mso-list-id:592668000;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-900817000 -968567200 201916441 201916443 201916431 201916441 201916443 201916431 201916441 201916443;}
+@list l3:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:46.35pt;
+	text-indent:-18.0pt;}
+@list l3:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:82.35pt;
+	text-indent:-18.0pt;}
+@list l3:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:118.35pt;
+	text-indent:-9.0pt;}
+@list l3:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:154.35pt;
+	text-indent:-18.0pt;}
+@list l3:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:190.35pt;
+	text-indent:-18.0pt;}
+@list l3:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:226.35pt;
+	text-indent:-9.0pt;}
+@list l3:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:262.35pt;
+	text-indent:-18.0pt;}
+@list l3:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:298.35pt;
+	text-indent:-18.0pt;}
+@list l3:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:334.35pt;
+	text-indent:-9.0pt;}
+@list l4
+	{mso-list-id:758715263;
+	mso-list-type:hybrid;
+	mso-list-template-ids:50507088 -231542902 201916419 201916421 201916417 201916419 201916421 201916417 201916419 201916421;}
+@list l4:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;
+	font-family:Symbol;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";}
+@list l4:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:82.35pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l4:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:118.35pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l4:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:154.35pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l4:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:190.35pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l4:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:226.35pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l4:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:262.35pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l4:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:298.35pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l4:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:334.35pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l5
+	{mso-list-id:1243877647;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1040564860 1325853942 -1 -1 -1 -1 -1 -1 -1 -1;}
+@list l5:level1
+	{mso-level-style-link:APA_numberedList;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:46.35pt;
+	text-indent:-18.0pt;}
+@list l5:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:82.35pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l5:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:118.35pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l5:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:154.35pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l5:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:190.35pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l5:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:226.35pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l5:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:262.35pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l5:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:298.35pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l5:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:334.35pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l6
+	{mso-list-id:1361393152;
+	mso-list-template-ids:-1245163164;}
+@list l6:level1
+	{mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6:level2
+	{mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6:level3
+	{mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6:level4
+	{mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6:level5
+	{mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6:level6
+	{mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6:level7
+	{mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6:level8
+	{mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6:level9
+	{mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l7
+	{mso-list-id:1471359148;
+	mso-list-type:hybrid;
+	mso-list-template-ids:342522476 201916431 201916441 201916443 201916431 201916441 201916443 201916431 201916441 201916443;}
+@list l7:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l7:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l7:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l7:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l7:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l7:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l7:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l7:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l7:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l8
+	{mso-list-id:2025086042;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-207712302 -637994 201916441 201916443 201916431 201916441 201916443 201916431 201916441 201916443;}
+@list l8:level1
+	{mso-level-number-format:alpha-lower;
+	mso-level-text:"\(%1\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l8:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l8:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l8:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l8:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l8:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l8:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l8:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l8:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l9
+	{mso-list-id:2121562003;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1870205296 475811712 201916419 201916421 201916417 201916419 201916421 201916417 201916419 201916421;}
+@list l9:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;
+	font-family:Symbol;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";}
+@list l9:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:82.35pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l9:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:118.35pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l9:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:154.35pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l9:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:190.35pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l9:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:226.35pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l9:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:262.35pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l9:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:298.35pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l9:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:334.35pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-bidi-font-family:"Times New Roman";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
 
-</HTML>
+<body lang=EN-AU link="#0563C1" vlink="#954F72" style='tab-interval:36.0pt;
+word-wrap:break-word'>
+
+<div class=WordSection1>
+
+<h1>Brain-Based Trauma Therapy Approaches:<span style='mso-spacerun:yes'> 
+</span>Systematic Review and Meta-analysis</h1>
+
+<h1><span class=Heading2Char>Abstract <o:p></o:p></span></h1>
+
+<p class=bodyTextAPA>Limit to Traum-informed-teaching?<span
+style='mso-spacerun:yes'>  </span>Viz:<span style='mso-spacerun:yes'> 
+</span>brain-based approaches to trauma-informed teaching:<span
+style='mso-spacerun:yes'>  </span>another misapplation of neuroscience to
+education.</p>
+
+<p class=bodyTextAPA>Much research and practical interventions into trauma and
+its treatment has been in the past based on the triune brain theory. In recent
+years, this theory has been all but totally discredited, and revealed as – at best
+- an inaccurate and over-simplified metaphor for how the human brain operates
+in genera, and how it mediates the stress and trauma response in particular.
+This review paper examines the extent to which this invalid translation of
+neuroscience to psychological interventions, and critically evaluates the
+evidence surrounding and history of the triune brain theory. Finally, the most
+prominent of such interventions will be subjected to a systematic empirical
+review of their efficacy.<span style='mso-spacerun:yes'>  </span>It will be
+shown that despite their popularity, there is a dearth of evidence supporting
+the efficacy of any triune-brain-based intervention, especially when compared
+to that of more traditional paradigms such as cognitive and behavioural interventions.</p>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<h1>Translation of Neuroscience into Education:<span style='mso-spacerun:yes'> 
+</span>A Systematic Empirical Review</h1>
+
+<p class=AbstractAPA>Ever since Bruer’s seminal article about neuro-education,
+there has been live debate about the relevance of neuroscience in education.
+This article reports the results of an empirical systematic review wherein 363
+articles related to neuroscience and education - sourced from Google Scholar
+and the peer-reviewed journals Mind, Brain &amp; Education, and Trends in
+Neuroscience and Education. - were <span class=SpellE>analysed</span> against a
+published conceptual framework, and translation schema. The hypothesis – that
+there would be no article that successfully prescribed an intervention that
+could be used in educational practice – was confirmed. While many articles
+explained learning, identified the neural correlates of learning, and
+conceptually translated neuroscience into education, there was no evidence of a
+direct translation between the two fields. A secondary purpose of the study was
+to qualitatively assess the conceptual framework and translation schema: the
+results supported the validity and practicality of these, but also revealed
+important limitations. <span style='mso-spacerun:yes'> </span>The implications
+for the future of the field and potential future research are discussed.<i><o:p></o:p></i></p>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<h1>The Past and Future of Educational Neuroscience</h1>
+
+<p class=AbstractAPA>Despite the popularity of applying knowledge of the brain
+into education, educators and learners have derived little if any direct
+benefit.<span style='mso-spacerun:yes'>  </span>Neuroscience is yet to discover
+anything about teaching and learning that good educators and learners do not
+already know, and yet the field continues to make claims of its potential to
+revolutionise the field.<span style='mso-spacerun:yes'>  </span>This article reviews
+the current evidence regarding the efficacy of neuroscience on human learning
+and teaching, and crucially analyses the assumptions – mostly faulty – implicit
+in many applications and translations. <span style='mso-spacerun:yes'> </span>In
+particular, many of these incorrect assumptions are based on inaccurate or incomplete
+theoretical models of human learning – many of which run counter to basis
+evolutionary theory, the very basis of the biological (and hence
+neuroscientific) sciences.<span style='mso-spacerun:yes'>  </span>This article
+therefore, will describe a sound and valid biological theory of human learning,
+based on decades of previous research, which may form the basis of all learning
+and teaching interventions, and all translations between neuroscience and
+educational application.<span style='mso-spacerun:yes'>  </span><span
+style='mso-spacerun:yes'> </span>Having demonstrated the futility of invalid
+translation, the article will then describe valid translations and in so doing
+conject a range of valuable future directions for the field.<i><o:p></o:p></i></p>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<h1>Aligning Neuroscience and Human Learning: The Pedagogical Primes Model. <o:p></o:p></h1>
+
+<p class=bodyTextAPA>Education, as a profession, lacks a sound, exhaustive
+theory.<span style='mso-spacerun:yes'>  </span>Definitions and theories of
+human learning are many and highly varied, while definitions and theories of
+teaching are scant and conflicting.<span style='mso-spacerun:yes'> 
+</span>Further, none of them are validly aligned with the modern biological,
+evolutionary understanding of leaning, rendering the field of educational
+neuroscience a somewhat ineffectual field.<span style='mso-spacerun:yes'> 
+</span>In this article, the biological, evolutionary view of learning will be
+critically examined, drawing on Darwinian theory and expansions from modern
+neurological understanding of protein, <span class=SpellE>protosynaptic</span>,
+and neural evolution.<span style='mso-spacerun:yes'>  </span>This foundational,
+biological view of human learning then forms the basis of a new proposed
+educational neuroscience model: the Pedagogical Primes model, in which human
+learning is described and understood at its various levels of complexity (from chemical,
+to cellular, to psychological, to sociocultural).<span
+style='mso-spacerun:yes'>  </span>Translation between the boundaries of each of
+these levels will then be examined – leading to several recommendations for
+future research and practice, so that invalid translations are avoided, and
+valid translation is pursued.</p>
+
+<span style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-font-family:
+Calibri;mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;
+mso-ansi-language:EN-AU;mso-fareast-language:EN-US;mso-bidi-language:AR-SA'><br
+clear=all style='mso-special-character:line-break;page-break-before:always'>
+</span>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<p class=bodyTextAPA>Future Directions for Educational Neuroscience</p>
+
+<p class=AbstractAPA>Valid and Invalid applications of Neurosicnence in
+responses to Trauma</p>
+
+<p class=AbstractAPA>D and H created a matrix by which all neuroEd applications
+can be categorise.<span style='mso-spacerun:yes'>  </span>Same will be don
+ehere but this time to trauma brain-based approaches.<span
+style='mso-spacerun:yes'>  </span>Prescriptive translations – e.g. in
+neurosequential and developmental found to not be valid.<span
+style='mso-spacerun:yes'>  </span>Diagnostic, Conceptual and toher translations
+may yet pove to be more suitable.<span style='mso-spacerun:yes'>  </span>We
+review the evidence for each of these and conclude that there is no evidence
+for the efficacy of brain-based interventions over and above that of non-
+brain-based interventions, and that there exists some promise of future valid
+interventions that are diagnostic and or conceptual.</p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA>Brain based approaches</p>
+
+<p class=AbstractAPA style='margin-left:54.0pt;text-indent:-18.0pt;mso-list:
+l0 level1 lfo11'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='mso-spacerun:yes'> </span>This one</p>
+
+<p class=AbstractAPA style='margin-left:54.0pt;text-indent:-18.0pt;mso-list:
+l0 level1 lfo11'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>That one</p>
+
+<p class=AbstractAPA style='margin-left:54.0pt;text-indent:-18.0pt;mso-list:
+l0 level1 lfo11'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>The other one</p>
+
+<p class=AbstractAPA style='margin-left:54.0pt;text-indent:-18.0pt;mso-list:
+l0 level1 lfo11'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Developentallly appropriate interventions (e.g.
+NS and DeveKOch).</p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA>All based o the faulty triune theory</p>
+
+<p class=AbstractAPA><span style='mso-tab-count:1'>            </span>Here’s
+what it is</p>
+
+<p class=AbstractAPA><span style='mso-tab-count:1'>            </span>Hwere’s
+its’ history</p>
+
+<p class=AbstractAPA><span style='mso-tab-count:1'>            </span>Here is
+the current biological view</p>
+
+<p class=AbstractAPA><span style='mso-tab-count:1'>            </span>Capitualtes</p>
+
+<p class=AbstractAPA><span style='mso-tab-count:1'>            </span>Fulty</p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA>Evidence</p>
+
+<p class=AbstractAPA style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+l8 level1 lfo12'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>(a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span><![endif]>Prescriptive:<span style='mso-spacerun:yes'> 
+</span>dpes ot wowrk.<span style='mso-spacerun:yes'>  </span>Evidence absence
+that Neq works any better.</p>
+
+<p class=AbstractAPA style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+l8 level1 lfo12'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>(b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span><![endif]>Conceputal:<span style='mso-spacerun:yes'> 
+</span>popular – triune brain theory used extensively in professional priaceic</p>
+
+<p class=AbstractAPA style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+l8 level1 lfo12'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>(c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span><![endif]>E</p>
+
+<p class=AbstractAPA style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+l8 level1 lfo12'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>(d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span><![endif]>Diagnostic</p>
+
+<p class=AbstractAPA style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:
+l8 level2 lfo12'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>a.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Early brin scans</p>
+
+<p class=AbstractAPA style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:
+l8 level2 lfo12'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>b.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Implants</p>
+
+<p class=AbstractAPA style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:
+l8 level2 lfo12'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>c.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>???</p>
+
+<p class=AbstractAPA style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:
+l8 level2 lfo12'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>d.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>??</p>
+
+<p class=AbstractAPA style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:
+l8 level2 lfo12'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>e.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>?</p>
+
+<p class=AbstractAPA style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+l8 level1 lfo12'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>(e)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span><![endif]>Other</p>
+
+<p class=AbstractAPA style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:
+l8 level2 lfo12'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>a.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>?</p>
+
+<p class=AbstractAPA style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:
+l8 level2 lfo12'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>b.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>??</p>
+
+<p class=AbstractAPA style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:
+l8 level2 lfo12'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>c.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>???</p>
+
+<p class=AbstractAPA style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:
+l8 level2 lfo12'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>d.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA>Eview</p>
+
+<p class=AbstractAPA><span style='mso-tab-count:1'>            </span>No
+evidence for or against this hypothesis.</p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA>Invalid</p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+l7 level1 lfo9'><![if !supportLists]><span style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>We can reject non evidence-based nonsense such
+as neurosequantial theories for which there is no evidence</p>
+
+<p class=AbstractAPA style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:
+l7 level2 lfo9'><![if !supportLists]><span style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>a.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Based on a unproved a priori assumption that
+interventions that are consistentent with the developmental stage at which the
+trauma occurred, will be more effective than those are less consistent;</p>
+
+<p class=AbstractAPA style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:
+l7 level2 lfo9'><![if !supportLists]><span style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>b.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Emerge from a conceptualisation of brain
+evolution (MacLean’s triune theory) that is considered by biologists to be
+at<span style='mso-spacerun:yes'>  </span>best a massive over-simplificaiton,
+at worse plain wrong.</p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA>Review:<span style='mso-spacerun:yes'>  </span>the triune
+brain theory</p>
+
+<p class=AbstractAPA>History</p>
+
+<p class=AbstractAPA>Evidence</p>
+
+<p class=AbstractAPA>Current views</p>
+
+<p class=AbstractAPA>Relevance</p>
+
+<p class=AbstractAPA>Brain-based therapies, chil protection, trauma
+interventions are largely base don this theory, trauma informed teaching, so
+the implications of the wwongrness of this theory may impact those
+practices.<span style='mso-spacerun:yes'>  </span><span style='mso-tab-count:
+1'>         </span></p>
+
+<p class=AbstractAPA><span style='mso-tab-count:1'>            </span>What
+professions based on triune?</p>
+
+<p class=AbstractAPA><span style='mso-tab-count:1'>            </span>What are
+their claims / hypotheses?</p>
+
+<p class=AbstractAPA><span style='mso-tab-count:1'>            </span>What
+evidence is there to support them?</p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA>Valid</p>
+
+<p class=AbstractAPA style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+l2 level1 lfo10'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>We can identify, with precision and accuracy,
+the biological nature of trauma.<span style='mso-spacerun:yes'>  </span>Review
+this.</p>
+
+<p class=AbstractAPA style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+l2 level1 lfo10'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Ease of communication, simplicity</p>
+
+<p class=AbstractAPA style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+l2 level1 lfo10'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Conceptual informing of practice</p>
+
+<p class=AbstractAPA style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+l2 level1 lfo10'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Neuroimaging tools for diagnosis – neural
+signatures</p>
+
+<p class=AbstractAPA style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+l2 level1 lfo10'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Neuroliteracy amongst patients (insight)</p>
+
+<p class=AbstractAPA style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+l2 level1 lfo10'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Does knowing about the neuro of trauma increase
+ecovery from trauma given that it’s a conscious pheno</p>
+
+<p class=AbstractAPA style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+l2 level1 lfo10'><![if !supportLists]><span style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>7.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Diagnostic</p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA>Conclusion</p>
+
+<p class=AbstractAPA>Any attempt to justify an intervention using scientific
+evidence must be accompanied by scientific rigour, and this is rrelevant in two
+ways here.<span style='mso-spacerun:yes'>  </span>First, if the evidence shows
+that ou assumptions are wwong 9in thi case the triune theory) then we must
+change our assumptions – that is the scientific method.<span
+style='mso-spacerun:yes'>  </span>Second, in order to justigy twhe use of a
+model or set of intervetnions, we must ely on the evidence that duppots orr
+denies that use – at the layer of complexitiy at which it is claimed, not my
+asserting the dubious allure of neuroscientific explanations.<span
+style='mso-spacerun:yes'>  </span>It is in suffient to ely on ‘neuosicnece
+tells us’ as the justificiaiotn, we need to text the specii hyptoheses that ae
+generate by those assumptions and models and theories.<span
+style='mso-spacerun:yes'>  </span>As it stands, such evidence for so-called
+brain-based interevnetions, based on the triune model, is non-nexistent.</p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA>Despite pevious attempts to apply neuroscience to teaching
+and learning being subjected to considerable challenge, neuroscience remains
+the purported foundation of and justification for brain-based, trauma-informed
+teaching. This chapter comprises three main goals:<span
+style='mso-spacerun:yes'>  </span>first, to critically evaluate application of
+neuroscience to t.i.t., in particular the triune brain theory on which most
+t.it. is based, and second to systematically examine the evidence for the
+efficacy of brain-based t.ti., with particular emphasis on the neurosequential
+theory.<span style='mso-spacerun:yes'>  </span>The results indicate that not
+only are there significant flaws in the logic of such bbtits, there is little
+to no published evidence demonstrating that bbtit methods are effective.</p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<h1>Introduction <span style='color:#4472C4;mso-themecolor:accent1'>(remove
+Heading in final version)</span></h1>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA>Two popular approaches to the therapeutic treatment of
+trauma – Perry’s neurosequential theory, and van der Koch’s developmental
+trauma model – are ostensibly based on and justified by neuroscience,
+particularly the MacLean’s ‘triune-brain’ model.<span
+style='mso-spacerun:yes'>  </span>The justification for and efficacy of the
+approaches are often drawn from this neuroscience foundation, even though in
+recent years the triune theory has been largely debunked by evolutionary
+biologists. So are these approaches effective, despite the theoretical basis
+being debunked?<span style='mso-spacerun:yes'>     </span>The results indicate
+that not only are the therapies based on flawed theory, but that there are so
+few empirical studies on the efficacy, it is difficult to make any
+evidence-based claim that either approach is effective.</p>
+
+<p class=bodyTextAPA>Since the so-called ‘decade of the brain’, there have been
+innumerable attempts to apply neuroscientific in a diverse range of professions
+from education, to psychology, to philosophy even economics and marketing.<span
+style='mso-spacerun:yes'>  </span>The limitations of translation of
+neuroscience have been dealt with extensively, but much of this critical
+analysis has been limited to neuro-education (cites).<span
+style='mso-spacerun:yes'>  </span>Notwithstanding, this translation continues,
+and in two important professions – trauma therapy and social-work – one
+particular theory of the brain forms the basis of the application: the triune
+brain theory.<span style='mso-spacerun:yes'>  </span>This theory was prominent
+in the 1990s?? but in recent years has been discredited, bringing into doubt
+the very foundation of the approaches.<span style='mso-spacerun:yes'> 
+</span>In this paper, therefoe, the theoretical basis of the pofessions will be
+critically evaluated with rrespect to the triune brain theoy, followed by a
+systematic riview of the efficacy of each appocha in the light of the flawed
+theoretical base.<span style='mso-spacerun:yes'>  </span>The results expose a
+paucity of efficacy research for either approach, suggesting that thee is no
+evidence-basis for their continued use.</p>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<p class=bodyTextAPA>Everything that we do, see, say, think, feel, do or
+believe, is a function of activity in our brains.<span
+style='mso-spacerun:yes'>  </span>Our brains allows us to learn, they regulate
+our behaviour, our phsyiooogy, and without them, we cease to exist.<span
+style='mso-spacerun:yes'>  </span>Every time thgere is a significant, more or
+less permanent change to our brains (what it stores, how it is stored, how it
+is connected to other mems organs and muscles, that is what we call learning
+has occurred.<span style='mso-spacerun:yes'>  </span>It makes no logical sense,
+therefore, to say “This product/method changes your brain, therefore it is
+effective, therefore it is desirable.”<span style='mso-spacerun:yes'> 
+</span>We can clean that learning has occurred by observing changes in
+behaviour, and we can regulate our interventions accordingly.<span
+style='mso-spacerun:yes'>  </span>The real question about neuroeducation then,
+is can we indeed glean new or better information about learning from a neural
+change/phenomenon, than we can from just observing behaviour (the traditional
+way).<span style='mso-spacerun:yes'>  </span>So far, the news is not
+great:<span style='mso-spacerun:yes'>  </span>there is no such evidence in the
+literature, and there are good theoretical reasons why such indications may be
+theoretically impossible (D and G, G and D).<span style='mso-spacerun:yes'> 
+</span></p>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<p class=bodyTextAPA>So in education there are severe limitations to the
+application of neuroscience.<span style='mso-spacerun:yes'>  </span>But what
+about other areas?<span style='mso-spacerun:yes'>  </span>In the field of
+trauma treatment, a number of approaches are ostensibly based on, and often
+justified by, concepts of brain development; in particular, neurosequential,
+developmental, and ‘chlid proitection.<span style='mso-spacerun:yes'> 
+</span>These are based on the ‘triune brain theory’.<span
+style='mso-spacerun:yes'>  </span>In this article the history of and evidence
+behind this theory will be reviewed.<span style='mso-spacerun:yes'>  </span>We
+will then review the ways in which this theory is used to underpin each theory,
+and explicate the predictions of each model.</p>
+
+<p class=bodyTextAPA>Finally, the published literature will be systematically
+reviewed and anlaysed to ascertain the efficacy of each approach, compared to a
+review of the most traditional approaches’ effect size.</p>
+
+<p class=bodyTextAPA>Conclusion may be that there is no evidence to preference
+for either of these brain-based approaches to trauma treatment.</p>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<p class=bodyTextAPA>How is trauma treatment assessed, and what is the efficacy
+of the most commonly used approaches?<span style='mso-spacerun:yes'> 
+</span>Systematic review of meta-analyses.</p>
+
+<h1>The triune brain</h1>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<p class=bodyTextAPA>It can be seen that both approaches are firmly grounded on
+the<span style='mso-spacerun:yes'>  </span>triune brain theory, hence the
+following will include review of the theory, and the evidence for it.<span
+style='mso-spacerun:yes'>  </span>It will be shown that the theory was never
+based in evidence, and was in fact a untested hyptothesis, and finaly was based
+on flawed logic. .<span style='mso-spacerun:yes'>  </span>A commonly and popual
+conceptualisation of the brain is one that separates the humn brain into 3 main
+sections, ostensibly tht follow the embnryologtical, eveolutionary
+development.<span style='mso-spacerun:yes'>  </span>Embyrolyogy capitulates
+phylogeny: we evolved from mammals, which in turn evolved from reptiles, so the
+theory goes that our brain has a reptilian base (brainstem), a mammalian core
+(the limbic System) and a hyman brain (neocortex).<span
+style='mso-spacerun:yes'>  </span>The triune theory postis that certain
+behaviours and observations can be attributed to one of thoese different
+brains: and that certain interventions can zoom in on those individual sections
+and change their predominace.<span style='mso-spacerun:yes'>  </span></p>
+
+<p class=bodyTextAPA>The latest evidence from neuroscience shows that this view
+of the brain is fundamentally flawed.<span style='mso-spacerun:yes'> 
+</span>Embyroloyg does not captulate phylogeny.<span style='mso-spacerun:yes'> 
+</span>All verterbrates have the same brain strucutere:<span
+style='mso-spacerun:yes'>  </span>even repitles have a cortex, dolphins have a
+neocortext, and and all mammals have, inlcuing huans, have a brainstem:<span
+style='mso-spacerun:yes'>  </span>the definitional criterion of vertebrates is
+the structure of the brain:<span style='mso-spacerun:yes'>  </span>it is a
+varying combination of the three so called areas.<span
+style='mso-spacerun:yes'>  </span></p>
+
+<p class=bodyTextAPA>Review latest research on the triune brain</p>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA>Practitioners in the field prefer adaptation that triunie
+development.<span style='mso-spacerun:yes'>  </span><a
+href="https://www.frontiersin.org/articles/10.3389/fpsyt.2022.802606/full">https://www.frontiersin.org/articles/10.3389/fpsyt.2022.802606/full</a></p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<h1>The Brain Based Approaches</h1>
+
+<h2>Sequentiual</h2>
+
+<p class=bodyTextAPA>The truiun bain theory is rampant<span
+style='mso-spacerun:yes'>  </span>.<span style='mso-spacerun:yes'>  </span>it
+underpins social wok an chil protection and is used to explain the origins and
+treatment of trauma</p>
+
+<h3>Explnation of the Approach</h3>
+
+<h3>Explication of Hypotheses</h3>
+
+<h3>Systematic Review</h3>
+
+<p class=bodyTextAPA>Choser these articles for these reasons.<span
+style='mso-spacerun:yes'>  </span>Found this, that and the other thing</p>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<h2>Developmental</h2>
+
+<h3>Explanation of the Approach</h3>
+
+<h3><o:p>&nbsp;</o:p></h3>
+
+<h3>Explication of Hypotheses</h3>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<h3>Systematic Review</h3>
+
+<p class=bodyTextAPA>Choser these articles for these reasons.<span
+style='mso-spacerun:yes'>  </span>Found this, that and the other thing</p>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<h2>Neurosequential</h2>
+
+<h3>Background</h3>
+
+<h3>Claims</h3>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<h2>Developmental</h2>
+
+<h3>Background</h3>
+
+<h3>Claims</h3>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<h1>Systematic Review</h1>
+
+<h2>Conceptions of Trauma</h2>
+
+<h3>How is it measured?</h3>
+
+<p class=bodyTextAPA>Does it matter if there are no empirical studies measuring
+pre and post.</p>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<h2>Neurosequential</h2>
+
+<h3><span style='mso-spacerun:yes'> </span>Methodology</h3>
+
+<p class=bodyTextAPA>A google scholar search using PoP revealed a total of 81
+papers publishe din which thbe word ‘neuirosequential’ appeared as a
+keyword.<span style='mso-spacerun:yes'>  </span>Scopus was also searched and
+revealed 31 papers.<span style='mso-spacerun:yes'>  </span>These were combined
+into a master list (see appendix x) and duplicates removed (N=n).<span
+style='mso-spacerun:yes'>  </span>Each paper was then examined and allocated to
+one of n categoies:<span style='mso-spacerun:yes'>  </span>empirical
+evaluation, conceptual, ehwatever.</p>
+
+<h3>Results</h3>
+
+<p class=bodyTextAPA>Not a single paper measuring the efficacy of
+neurosequential.</p>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<h2>Developmental</h2>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<h2>Child Protection</h2>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<h1>Discussion</h1>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<p class=bodyTextAPA>The review has shown that the triune brain is a flawed
+concpetualisation of the brain, and its application to professional practice,
+including trauma reponses in psychiatiry and child protection, are logically
+flawed.<span style='mso-spacerun:yes'>  </span>Subsequently, it has also been
+found that neithger of these approaches are based on any evidence:<span
+style='mso-spacerun:yes'>  </span>there are insufficient publicshed studies
+showing the swuperior efficacy of either over more traditional approaches.<span
+style='mso-spacerun:yes'>  </span>It is perhaps a nother example of the
+mistaken translation of neuroscience into professional practice, a </p>
+
+<h1>Conclusing Remarks</h1>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<h1>References (APAreference)</h1>
+
+<p class=ReferencesAPA>Kellehear, A., &amp; Fook, J. (1997). Lassie come home:
+A study of ‘lost pet’notices.&nbsp;OMEGA-<i>Journal of Death and Dying,&nbsp;34</i>(3),
+191-202.</p>
+
+<p class=ReferencesAPA>O'Brien, C. M., &amp; Richard, B. (2006). A surgeon's
+duty in dog bite prevention in children.&nbsp;<i>Annals of Plastic Surgery</i>,&nbsp;<i>56</i>(1),
+106-107.</p>
+
+<p class=ReferencesAPA>Barrette, D. (1989). Feeding the sporting dog.&nbsp;<i>The
+Canadian Veterinary Journal,&nbsp;30</i>(5), 439.</p>
+
+<p class=ReferencesAPA>Reid, P. J. (2009). Adapting to the human world: dogs’
+responsiveness to our social cues.&nbsp;<i>Behavioural Processes,&nbsp;80</i>(3),
+325-333.</p>
+
+<p class=bodyTextAPA><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA>which in recent times has been largely debunked by
+evolutionary biologists: questioning the theoretical foundation both
+approaches.<span style='mso-spacerun:yes'>  </span>In this paper, the triune
+theory will be critically reviewed, and how each approach is based on that
+theory will be described.<span style='mso-spacerun:yes'>   </span></p>
+
+<p class=AbstractAPA><o:p>&nbsp;</o:p></p>
+
+<p class=AbstractAPA>Two pom</p>
+
+<p class=bodyTextAPA>The decade of the brain has ushered in a predominance of
+neuyrobablle.<span style='mso-spacerun:yes'>  </span>We cn use neuroscience to
+impro9ve education, as a basis of economicsTwo prominent approaches are
+sequential and develpmentla, and are popular in the ppoopulare press.<span
+style='mso-spacerun:yes'>  </span>Both are based on the Triune brain theory,
+and will be discessed in detail below.</p>
+
+<p class=AbstractAPA>; second to critically review how the triune theory
+underpins each therapy; and third to complete a systematic review of the
+evidence of efficacy of each therapy.In this chapter, the theoretical basis of
+this application of neuroscience will be critically reviewed</p>
+
+<p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
